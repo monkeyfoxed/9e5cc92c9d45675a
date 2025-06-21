@@ -1,0 +1,5 @@
+Player URL:
+https://monkeyfoxed.github.io/player/?list=https://raw.githubusercontent.com/monkeyfoxed/9e5cc92c9d45675a/refs/heads/master/github_playlist.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/monkeyfoxed/9e5cc92c9d45675a/refs/heads/master/github_playlist.m3u8
